@@ -11,16 +11,16 @@ const Navbar = () => {
             <div className='nav-list'>
                 <ul>
                     <li>
-                        <a>الرئيسية</a>
+                        <a href='#'>الرئيسية</a>
                     </li>
                     <li>
-                        <a>التصنيفات</a>
+                        <a href='#'>التصنيفات</a>
                     </li>
                     <li>
-                        <a>التطبيقات</a>
+                        <a href='#'>التطبيقات</a>
                     </li>
                     <li>
-                        <a>طور التطبيق</a>
+                        <a href='#'>طور التطبيق</a>
                     </li>
                 </ul>
             </div>
