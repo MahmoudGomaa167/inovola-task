@@ -1,0 +1,27 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 62.3px;
+}
+
+.nav-logo {
+  margin-left: 102.46px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav-list ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-list ul li {
+  margin-left: 100.26px;
+}
+
+.nav-list ul li:last-of-type {
+  margin-left: 0;
+}

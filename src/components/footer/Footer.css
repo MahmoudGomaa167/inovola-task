@@ -1,0 +1,14 @@
+footer {
+  /* width: 100%; */
+  height: 233px;
+  background-color: #835d9d;
+}
+
+.footer-image {
+  margin: 0 59.08px 0 62.1px;
+  background-image: url(../../images/Footer.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100%;
+}
